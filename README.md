@@ -99,9 +99,6 @@ Feel free to fork this project and submit improvements. Key areas for potential 
 - UI/UX enhancements
 - Performance optimizations
 
-## 📝 License
-
-This project is available under the MIT License. Feel free to use and modify as needed.
 
 ## 📫 Support
 
